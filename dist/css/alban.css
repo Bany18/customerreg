@@ -1,0 +1,12 @@
+.uni-font {
+     font-size: 18px;
+     font-style: normal;
+     color: rgb(134, 139, 161);
+     font-family: 'Josefin Sans';
+}
+
+.form-custom {
+	padding-top: 20%;
+	margin-right: auto;
+	margin-left: auto;
+}
